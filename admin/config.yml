@@ -1,6 +1,7 @@
 backend:
-  name: test-repo
-  local_backend: true
+  name: github
+  repo: swiftpublishingco-jpg/Swift-Publishing
+  branch: main
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
